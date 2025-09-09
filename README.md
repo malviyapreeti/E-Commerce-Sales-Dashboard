@@ -101,12 +101,6 @@ Contributions are welcome! To contribute:
 
 ---
 
-## License
-
-This project does not currently specify a license. If you intend to open-source or share it publicly, consider adding one (MIT, Apache 2.0, etc.) to clarify usage and contribution terms.
-
----
-
 ## Acknowledgments
 
 * Based on e-commerce dashboard best practices using Power BI
