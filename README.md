@@ -86,7 +86,8 @@ These are the sources powering the visual analyses in the `.pbip` dashboard. Ens
 
 ## Visual Preview
 
-(Consider placing a screenshot or animated GIF of the dashboard here to give users an immediate visual cue of what to expect.)
+<img width="1211" height="683" alt="image" src="https://github.com/user-attachments/assets/bcaa27ec-bbd8-4901-a462-0d5e08e9c6f8" />
+
 
 ---
 
@@ -105,11 +106,3 @@ Contributions are welcome! To contribute:
 
 * Based on e-commerce dashboard best practices using Power BI
 * README structure and clarity inspired by community guidelines on effective repository documentation
-
----
-
-### Optional Enhancements
-
-* **Add badges**: such as License, GitHub stars, or build status to signal project maturity
-* **Include a diagram**: showing data flow—from CSVs to the dashboard
-* **List future enhancements**: e.g., “Add real-time data fetching,” “Add predictive analytics,” etc.
